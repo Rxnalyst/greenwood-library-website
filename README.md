@@ -1,6 +1,6 @@
 # greenwood-library-website
 
-## ** Capson Project: Ehnancing a Communnity Library Website ** ##
+## **Capson Project: Ehnancing a Communnity Library Website** ##
 
 ### Project Objective ### 
 1. Planning cloning a repository
